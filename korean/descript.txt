@@ -31,7 +31,7 @@ craftman,shiro
 craftmanurl,
 
 //Network Update URL
-//homeurl,
+homeurl,https://cestree.github.io/ssp-korean-langpack/korean/
 
 //Popup menu font name and height
 //menu.font.name,
