@@ -27,7 +27,7 @@ messagename,message.txt
 holidayname,holidays.txt
 
 //Creator. Because for unification of other "descript.txt" format,using strange English "craftman".
-craftman,shiro
+craftman,Chiri
 craftmanurl,
 
 //Network Update URL
