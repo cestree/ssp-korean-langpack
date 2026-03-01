@@ -1,0 +1,10 @@
+charset,Shift_JIS
+file,descript.txt56ba36e967f0eb9584118900416326f1size=1434date=2026-03-01T13:06:54
+file,holidays.txt37b571a52e27398162893be30353ae30size=2855date=2026-03-01T13:06:54
+file,install.txt1dcbf5104252fabcab3b0450e74b37e7size=46date=2026-03-01T13:06:54
+file,message.txt09f00bb7b4951f5f799eae926b262487size=12022date=2026-03-01T13:06:54
+file,resource.dll6169d70de4b068e2ac4b22d68528b7ddsize=61440date=2026-03-01T13:06:54
+file,surfacetable.txt861693f5ede9f79421ebe6a0e27c653dsize=194date=2026-03-01T13:06:54
+file,ssp-pictures/nowloading.png86c4e27b847a9e1624c9fece14d0c4d1size=3682date=2026-03-01T13:06:54
+file,ssp-pictures/pseudoai.pngb5e77ec726c0ddb6994358dbd3455febsize=3443date=2026-03-01T13:06:54
+file,ssp-pictures/realize.pngab07e701545457496292277d326ad85fsize=3828date=2026-03-01T13:06:54
